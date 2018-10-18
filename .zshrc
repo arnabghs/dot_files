@@ -104,4 +104,4 @@ alias rf="rm -rf"
 alias zs="source ~/.zshrc"
 USER=``
 
-export TERM=xterm-256color #for lightline color
+#export TERM=xterm-256color #for lightline color
